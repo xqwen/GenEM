@@ -1,3 +1,4 @@
-# GenEM: General EM Algorithm for Finite Mixture Models
+#GenEM: C++ class library for general finite mixture model fitting with EM algorithm
 
-`
+
+
